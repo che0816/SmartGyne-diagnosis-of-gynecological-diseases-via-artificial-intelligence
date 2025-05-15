@@ -1,0 +1,57 @@
+2025-05-14	07:06:30	Segmentation by Other Method:['jieba']
+2025-05-14	07:06:30	inputfile: D:\PycharmProjects\SmartGyne\data\text\text_whole.txt
+2025-05-14	07:06:30	filedir: D:\PycharmProjects\SmartGyne\data\seg_result
+2025-05-14	07:06:30	load and modify text file
+2025-05-14	07:06:30	sent num: 45
+2025-05-14	07:06:30	char num: 255
+2025-05-14	07:06:30	check result dir
+2025-05-14	07:06:30	start segmentation
+2025-05-14	07:06:30	method: jieba
+2025-05-14	07:06:58	Segmentation by Other Method:['jieba']
+2025-05-14	07:06:58	inputfile: D:\PycharmProjects\SmartGyne\data\text\text_whole.txt
+2025-05-14	07:06:58	filedir: D:\PycharmProjects\SmartGyne\data\seg_result
+2025-05-14	07:06:58	load and modify text file
+2025-05-14	07:06:58	sent num: 45
+2025-05-14	07:06:58	char num: 255
+2025-05-14	07:06:58	check result dir
+2025-05-14	07:06:58	start segmentation
+2025-05-14	07:06:58	method: jieba
+2025-05-14	07:07:00	integrate result of method jieba
+2025-05-14	07:07:00	finish
+----------------------------------------------------------------------------------------------------
+2025-05-15	07:02:30	Segmentation by Other Method:['jieba']
+2025-05-15	07:02:30	inputfile: ..\examples\text.txt
+2025-05-15	07:02:30	filedir: ..\examples\output
+2025-05-15	07:02:30	load and modify text file
+2025-05-15	07:02:31	sent num: 23222
+2025-05-15	07:02:31	char num: 348952
+2025-05-15	07:02:31	check result dir
+2025-05-15	07:02:31	start segmentation
+2025-05-15	07:02:31	method: jieba
+2025-05-15	07:02:32	integrate result of method jieba
+2025-05-15	07:02:33	finish
+----------------------------------------------------------------------------------------------------
+2025-05-15	07:03:38	Segmentation by Other Method:['jieba']
+2025-05-15	07:03:38	inputfile: ..\examples\text.txt
+2025-05-15	07:03:38	filedir: ..\examples\output
+2025-05-15	07:03:38	load and modify text file
+2025-05-15	07:03:39	sent num: 23222
+2025-05-15	07:03:39	char num: 348952
+2025-05-15	07:03:39	check result dir
+2025-05-15	07:03:39	start segmentation
+2025-05-15	07:03:39	method: jieba
+2025-05-15	07:03:40	integrate result of method jieba
+2025-05-15	07:03:41	finish
+----------------------------------------------------------------------------------------------------
+2025-05-15	07:04:49	Segmentation by Other Method:['jieba']
+2025-05-15	07:04:49	inputfile: D:\PycharmProjects\SmartGyne\code\TopWORDS_Series\TopWORDS-Seg\examples\text.txt
+2025-05-15	07:04:49	filedir: ..\examples\output
+2025-05-15	07:04:49	load and modify text file
+2025-05-15	07:04:49	sent num: 23222
+2025-05-15	07:04:49	char num: 348952
+2025-05-15	07:04:49	check result dir
+2025-05-15	07:04:49	start segmentation
+2025-05-15	07:04:49	method: jieba
+2025-05-15	07:04:51	integrate result of method jieba
+2025-05-15	07:04:51	finish
+----------------------------------------------------------------------------------------------------
