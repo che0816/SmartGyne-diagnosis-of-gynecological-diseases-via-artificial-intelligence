@@ -1,4 +1,4 @@
-# Decision Tree Modeling for Pelvic Floor Disorders (PFDs) 
+# Diagnosis for Pelvic Floor Disorders (PFDs) 
 **Repository for statistical modeling of pelvic floor disorders using clinical data**  
 
 
@@ -11,7 +11,7 @@
 
 
 ## 1. Project Overview  
-This repository contains the R code for a study on pelvic floor disorder (PFD) modeling, including data preprocessing, variable selection, and machine learning analysis (CART decision trees). The code is designed to reproduce the analyses described in the accompanying research paper.  
+This repository contains the R code for a study on pelvic floor disorder (PFD) modeling, including data preprocessing, variable selection, and machine learning analysis (CART). The code is designed to reproduce the analyses described in the accompanying research paper.  
 
 **Key Features:**  
 - Data preprocessing for clinical datasets (Excel files).  
