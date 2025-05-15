@@ -23,7 +23,7 @@ This repository contains the source code for our study on automated diagnosis pr
 
 ## Prerequisites  
 ### Software Dependencies  
-- **R Environment**: Version ≥ 3.0  
+- **R Environment**: Version ≥ 3.6.0  
 - **R Packages**:  
   ```r  
   readxl, rpart, rpart.plot, pROC, randomForest, Matrix, jsonlite, xlsx  
@@ -46,12 +46,12 @@ This repository contains the source code for our study on automated diagnosis pr
 ## Usage  
 ### Run the Analysis  
 1. **Set Configuration**:  
-   - Adjust parameters in `main.R` (e.g., `button` for model type, `aggregated` for ensemble methods).  
+   - Adjust parameters in `Triage for gynecological diseases.R` (e.g., `button` for model type, `aggregated` for ensemble methods).  
    - Update file paths in `preprocess_data()` and `build_and_evaluate_model()` if your data structure differs.  
 
 2. **Execute the Script**:  
    ```r  
-   source("src/main.R")  
+   source("src/Triage for gynecological diseases.R")  
    ```  
 
 ### Expected Outputs  
