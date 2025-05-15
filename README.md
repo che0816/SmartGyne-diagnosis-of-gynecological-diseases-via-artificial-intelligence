@@ -16,7 +16,7 @@ This repository contains the source code for the SmartGyne system, a comprehensi
 This module implements the TopWORDS series of algorithms for natural language processing (NLP) on electronic medical records (EMRs). The algorithms simultaneously perform **high-quality word discovery** and **text segmentation**, enabling the recognition of various medical terms in the EMR database. The output is a structured feature table, which encodes the presence/absence of thousands of medical features by converting semi-structured EMRs into a machine-readable format.  
 
 
-## <a name="knowledgegraph"></a>2. KnowledgeGraph  
+## <a name="knowledgegraph"></a>2. Knowledge Graph  
 ### Description  
 This folder contains code for constructing a knowledge graph that integrates domain knowledge for gynecological diagnosis. The knowledge graph serves as a semantic foundation for the diagnostic models, encoding relationships between diseases, symptoms, risk factors, and medical guidelines.  
 
