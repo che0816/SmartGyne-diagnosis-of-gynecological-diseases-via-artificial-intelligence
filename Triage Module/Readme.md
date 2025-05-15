@@ -1,4 +1,4 @@
-# Triage diagnosis of gynecological diseases
+# Triage for gynecological diseases
 
 
 ## Table of Contents  
@@ -11,7 +11,7 @@
 
 
 ## Project Overview  
-This repository contains the source code for our study on automated diagnosis prediction using medical records and hierarchical decision tree models. The code includes data preprocessing, hierarchical model construction, and validation for medical diagnosis tasks.  
+This repository contains the source code for our study on triage for gynecological diseases using medical records and hierarchical decision tree models. The code includes data preprocessing, hierarchical model construction, and validation for medical diagnosis tasks.  
 
 
 ## Key Features  
