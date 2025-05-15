@@ -6,7 +6,7 @@ This repository contains the source code for the SmartGyne system, a comprehensi
 
 ## Table of Contents  
 1. [TopWORDS_Series](#topwords_series)  
-2. [KnowledgeGraph](#knowledgegraph)  
+2. [Knowledge Graph](#knowledgegraph)  
 3. [Triage Module](#triage-diagnostic-model)  
 4. [Diagnosis Module](#accurate-diagnostic-model)  
 
